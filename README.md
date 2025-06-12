@@ -1,20 +1,69 @@
-<h1 align="center">Hi 👋, I'm Hector Leandro Paula</h1>
-<h3 align="center">A software developer based in Brookly, NY.</h3>
+<div style="font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">
 
-- 🔭 I’m currently working on **something cool**
+<h1>Hi there, I'm Hector Leandro Paula 👋</h1>
+<h3>A Software Developer based in Brooklyn, NY.</h3>
+<p>I am a passionate developer with a strong background in .NET and SQL, building robust software solutions for the banking industry. I am now expanding my expertise into Cloud Computing.</p>
 
-- 🌱 I’m currently learning **ML, Flutter**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hector-paula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hector-paula" height="30" width="40" /></a>
-</p>
+### ☁️ My Cloud Computing Journey
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am currently focused on expanding my skills in cloud technologies and DevOps practices to build scalable and resilient applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandro32x&show_icons=true&locale=en" alt="leandro32x" /></p>
+- 🌱 I’m currently learning **Amazon Web Services (AWS)** and preparing for the **AWS Certified Solutions Architect - Associate** certification.
+- 🔭 My next goal is to complete the **[Cloud Resume Challenge](https://cloudresumechallenge.dev/)**, where I'll build and deploy a serverless application on AWS.
+- 💬 Feel free to ask me about my learning process or my experience in development!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandro32x&" alt="leandro32x" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro32x&show_icons=true&locale=en&layout=compact" alt="leandro32x" /></p>
+<details>
+<summary><b>🛠️ Languages and Tools</b></summary>
+<br>
+Here are the technologies I've worked with, drawn from my professional experience:
+
+**Backend**
+* C#
+* ASP.NET Core / .NET Core
+* Node.js
+* REST APIs
+* ETL Processing
+* VB.NET
+* RPGLE 
+
+**Frontend & Desktop**
+* JavaScript
+* HTML & CSS
+* ASP.NET MVC Core
+* Windows Forms (WinForms)
+
+**Databases**
+* SQL
+* Microsoft SQL Server
+* IBM DB2 for i
+
+**Tools & Methodologies**
+* Git
+* Visual Studio
+* SQL Server Management Studio (SSMS)
+* IBM i Console & tools
+* SSRS
+* SSIS
+</details>
+
+---
+
+### 📊 My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro32x&show_icons=true&locale=en&layout=compact&theme=dracula" alt="leandro32x-top-langs" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=leandro32x&show_icons=true&locale=en&theme=dracula" alt="leandro32x-stats" />&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leandro32x&theme=dracula" alt="leandro32x-streak" />
+
+---
+
+### 🔗 Connect with me
+
+<a href="https://linkedin.com/in/hector-paula" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hector-paula" height="40" width="50" />
+</a>
+</div>
