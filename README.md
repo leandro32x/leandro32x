@@ -56,8 +56,9 @@ Here are the technologies I've worked with, drawn from my professional experienc
 ### 📊 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro32x&show_icons=true&locale=en&layout=compact&theme=dracula" alt="leandro32x-top-langs" />
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=leandro32x&show_icons=true&locale=en&theme=dracula" alt="leandro32x-stats" />&nbsp;&nbsp;
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandro32x&theme=dracula" alt="leandro32x-streak" />
 
 ---
