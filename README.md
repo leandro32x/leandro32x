@@ -28,13 +28,14 @@ Here are the technologies I've worked with, drawn from my professional experienc
 * REST APIs
 * ETL Processing
 * VB.NET
-* RPGLE 
+* RPGLE
 
-**Frontend & Desktop**
+**Frontend, Desktop & Mobile**
 * JavaScript
 * HTML & CSS
 * ASP.NET MVC Core
 * Windows Forms (WinForms)
+* Flutter
 
 **Databases**
 * SQL
