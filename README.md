@@ -8,7 +8,7 @@
 
 ### ☁️ My Cloud Computing Journey
 
-I am currently focused on expanding my skills in cloud technologies and DevOps practices to build scalable and resilient applications.
+I am currently focused on expanding my skills in cloud technologies to build scalable and resilient applications.
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS)** and preparing for the **AWS Certified Solutions Architect - Associate** certification.
 - 🔭 My next goal is to complete the **[Cloud Resume Challenge](https://cloudresumechallenge.dev/)**, where I'll build and deploy a serverless application on AWS.
